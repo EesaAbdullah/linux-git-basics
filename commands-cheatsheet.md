@@ -9,22 +9,26 @@ mkdir    # create directory
 rm -r    # delete directory
 cp       # copy files
 mv       # move or rename files
-
+```
 ## Permissions
+```bash
 chmod 755 file.sh
 chown user:group file.txt
-
+```
 ## Processes
+```bash
 ps aux
 top
 kill <PID>
-
+```
 ## Networking
+```bash
 ip a
 ping google.com
 curl http://localhost:5000
-
+```
 ## Git
+```bash
 git clone <repo>
 git status
 git add .
