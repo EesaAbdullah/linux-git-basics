@@ -1,62 +1,62 @@
 # Linux & Git Commands Cheat Sheet
 
 ## Linux
-ls        # list files
-cd        # change directory
-pwd       # current directory
-mkdir     # create directory
-rm -r     # delete directory
-cp        # copy files
-mv        # move or rename files
+ls        # list files<br>
+cd        # change directory<br>
+pwd       # current directory<br>
+mkdir     # create directory<br>
+rm -r     # delete directory<br>
+cp        # copy files<br>
+mv        # move or rename files<br>
 
 ## Permissions
-chmod 755 file.sh
-chown user:group file.txt
+chmod 755 file.sh<br>
+chown user:group file.txt<br>
 
 ## Processes
-ps aux
-top
-kill <PID>
+ps aux<br>
+top<br>
+kill <PID><br>
 
 ## Networking
-ip a
-ping google.com
-curl http://localhost:5000
+ip a<br>
+ping google.com<br>
+curl http://localhost:5000<br>
 
 ## Git
-git clone <repo>
-git status
-git add .
-git commit -m "message"
-git push origin main
+git clone <repo><br>
+git status<br>
+git add .<br>
+git commit -m "message"<br>
+git push origin main<br>
 # Linux & Git Commands Cheat Sheet
 
 ## Linux
-ls        # list files
-cd        # change directory
-pwd       # current directory
-mkdir     # create directory
-rm -r     # delete directory
-cp        # copy files
-mv        # move or rename files
+ls        # list files<br>
+cd        # change directory<br>
+pwd       # current directory<br>
+mkdir     # create directory<br>
+rm -r     # delete directory<br>
+cp        # copy files<br>
+mv        # move or rename files<br>
 
 ## Permissions
-chmod 755 file.sh
-chown user:group file.txt
+chmod 755 file.sh<br>
+chown user:group file.txt<br>
 
 ## Processes
-ps aux
-top
-kill <PID>
+ps aux<br>
+top<br>
+kill <PID><br>
 
 ## Networking
-ip a
-ping google.com
-curl http://localhost:5000
+ip a<br>
+ping google.com<br>
+curl http://localhost:5000<br>
 
 ## Git
-git clone <repo>
-git status
-git add .
-git commit -m "message"
-git push origin main
+git clone <repo><br>
+git status<br>
+git add .<br>
+git commit -m "message"<br>
+git push origin main<br>
