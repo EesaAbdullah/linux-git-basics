@@ -1,31 +1,32 @@
 # Linux & Git Commands Cheat Sheet
 
 ## Linux
-ls    &nbsp;&nbsp;    # list files<br>
-cd    &nbsp;&nbsp;    # change directory<br>
-pwd   &nbsp;&nbsp;    # current directory<br>
-mkdir &nbsp;&nbsp;   # create directory<br>
-rm -r &nbsp;&nbsp;    # delete directory<br>
-cp    &nbsp;&nbsp;    # copy files<br>
-mv    &nbsp;&nbsp;   # move or rename files<br>
+```bash
+ls       # list files
+cd       # change directory
+pwd      # current directory
+mkdir    # create directory
+rm -r    # delete directory
+cp       # copy files
+mv       # move or rename files
 
 ## Permissions
-chmod 755 file.sh<br>
-chown user:group file.txt<br>
+chmod 755 file.sh
+chown user:group file.txt
 
 ## Processes
-ps aux<br>
-top<br>
-kill <PID><br>
+ps aux
+top
+kill <PID>
 
 ## Networking
-ip a<br>
-ping google.com<br>
-curl http://localhost:5000<br>
+ip a
+ping google.com
+curl http://localhost:5000
 
 ## Git
-git clone <repo><br>
-git status<br>
-git add .<br>
-git commit -m "message"<br>
-git push origin main<br>
+git clone <repo>
+git status
+git add .
+git commit -m "message"
+git push origin main
