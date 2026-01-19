@@ -1,15 +1,15 @@
 # Linux Process Management
 
 ## View Processes
-ps aux
-top
-htop
+ps aux<br>
+top<br>
+htop<br>
 
 ## Kill Process
-kill PID
-kill -9 PID
+kill PID<br>
+kill -9 PID<br>
 
 ## Background Jobs
-command &
-jobs
-fg %1
+command &<br>
+jobs<br>
+fg %1<br>

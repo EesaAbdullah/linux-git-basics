@@ -4,8 +4,8 @@
 git init
 
 ## Track Files
-git status
-git add .
+git status<br>
+git add .<br>
 git commit -m "initial commit"
 
 ## View History
@@ -16,9 +16,9 @@ git log
 git init
 
 ## Track Files
-git status
-git add .
-git commit -m "initial commit"
+git status<br>
+git add .<br>
+git commit -m "initial commit"<br>
 
 ## View History
 git log

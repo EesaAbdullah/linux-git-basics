@@ -1,16 +1,16 @@
 # Linux Networking Basics
 
 ## Check IP Address
-ip a
-ifconfig
+ip a<br>
+ifconfig<br>
 
 ## Test Connectivity
-ping google.com
+ping google.com<br>
 
 ## Port Check
-netstat -tulnp
-ss -tulnp
+netstat -tulnp<br>
+ss -tulnp<br>
 
 ## HTTP Requests
-curl http://example.com
-wget http://example.com
+curl http://example.com<br>
+wget http://example.com<br>
